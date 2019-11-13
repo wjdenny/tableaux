@@ -1,0 +1,25 @@
+{
+  "name": "@wjdenny/tableaux",
+  "version": "1.0.0",
+  "description": "Implementation of optimality theory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjdenny/tableaux.git"
+  },
+  "keywords": [
+    "optimality",
+    "theory",
+    "linguistics",
+    "phonology"
+  ],
+  "author": "Will Denny <will@wjdenny.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/wjdenny/tableaux/issues"
+  },
+  "homepage": "https://github.com/wjdenny/tableaux#readme"
+}
